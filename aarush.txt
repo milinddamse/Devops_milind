@@ -1,0 +1,31 @@
+
+
+D
+
+
+
+
+
+
+
+oooo
+
+
+
+
+
+total 52
+drwxr-xr-x 2 milind milind 4096 May  2 20:11 Videos
+drwxr-xr-x 2 milind milind 4096 May  2 20:11 Templates
+drwxr-xr-x 2 milind milind 4096 May  2 20:11 Public
+drwxr-xr-x 2 milind milind 4096 May  2 20:11 Pictures
+drwxr-xr-x 2 milind milind 4096 May  2 20:11 Music
+drwxr-xr-x 2 milind milind 4096 May  2 20:11 Downloads
+drwxr-xr-x 2 milind milind 4096 May  2 20:11 Documents
+drwx------ 3 milind milind 4096 May  4 19:12 snap
+drwxr-xr-x 2 milind milind 4096 May  6 20:05 Desktop
+drwxrwxr-x 3 milind milind 4096 May  8 19:08 batch11
+drwxrwxr-x 4 milind milind 4096 May  9 07:32 batch3
+-rw-rw-r-- 1 milind milind  169 May 10 06:28 class1
+-rw-rw-r-- 1 milind milind  106 May 12 04:27 milind.txt
+-rw-rw-r-- 1 milind milind    0 May 12 04:29 aarush.txt
