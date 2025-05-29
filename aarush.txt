@@ -1,5 +1,10 @@
 Hi This is sample code
 
+for i in milind aarush kamakshi
+do
+	echo $i
+
+done
 
 Date
 
