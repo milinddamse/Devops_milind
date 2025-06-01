@@ -1,5 +1,2 @@
-<<<<<<< HEAD
- This is file 1 
-=======
 This is the file number 2
->>>>>>> master
+
